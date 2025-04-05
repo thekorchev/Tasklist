@@ -1,0 +1,21 @@
+[1;31m
+Start test 1[0m
+2Input an action (add, print, edit, delete, end):
+> input
+The input action is invalid
+2Input an action (add, print, edit, delete, end):
+> task
+The input action is invalid
+2Input an action (add, print, edit, delete, end):
+> 
+The input action is invalid
+2Input an action (add, print, edit, delete, end):
+> 123
+The input action is invalid
+2Input an action (add, print, edit, delete, end):
+>  
+The input action is invalid
+2Input an action (add, print, edit, delete, end):
+> end
+{}
+Tasklist exiting!

@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/tasklist/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TasklistTest.kt
+    visible: false
+    learner_created: false
+  - name: src/tasklist/ReadTheList.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/18594#comment
+status: Solved
+record: 1
